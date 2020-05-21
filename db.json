@@ -2,8 +2,14 @@
   "userDetails": [
     {
       "id": 1,
-      "name": "Arbie",
-	  "email": "tecsonronaldbo@gmail.com",
+      "name": "User1",
+	  "email": "User1@gmail.com",
+	  "phone": "09476520978"
+    },
+	{
+      "id": 2,
+      "name": "User2",
+	  "email": "User1@gmail.com",
 	  "phone": "09476520978"
     }
   ]
